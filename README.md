@@ -1,2 +1,2 @@
 # arquivos_aulas
-Aulas de Git da DNC
+Aulas da DNC
